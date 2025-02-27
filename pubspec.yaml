@@ -1,0 +1,21 @@
+name: date_picker_app
+description: A Flutter app with an aesthetic date, time, and duration picker.
+publish_to: 'none' 
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.18.1  # For date formatting
+  flutter_ruler_picker: ^1.0.6  # Ruler-based time selection
+  flutter_carousel_widget: ^1.1.0  # For smooth curved hour selection
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
