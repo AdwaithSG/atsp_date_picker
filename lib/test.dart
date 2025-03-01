@@ -105,7 +105,7 @@ class _DateTimePickerPageState extends State<DateTimePickerPage> with SingleTick
       lastDate: DateTime(2100),
     );
 
-    if (picked != null && picked != selectedDate) {
+    if (picked != selectedDate) {
       setState(() {
         selectedDate = picked;
       });
