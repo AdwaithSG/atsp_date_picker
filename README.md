@@ -35,8 +35,11 @@ An advanced ruler-based picker lets users select time ranges, calculate estimate
 🎨 Designed with a modern aesthetic, making the user experience smooth and enjoyable.
 
 ![dt1](https://github.com/user-attachments/assets/6b56f95f-4972-4c40-8623-ca9e22fcc624)
+
 ![dt2](https://github.com/user-attachments/assets/1f127f24-bd3c-42f8-8ccf-68516994d162)
+
 ![dt3](https://github.com/user-attachments/assets/6e1bdc83-a056-4085-ba7d-23b18a38a2c1)
+
 ![dt4](https://github.com/user-attachments/assets/94064227-bded-4861-aee4-21cf7a85b100)
 
 
